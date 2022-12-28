@@ -81,8 +81,6 @@ public class startDestination {
 		 }
 		 
 		 System.out.println("it taken "+duration+" seconds to reach the destination:");
-		 System.out.println("it taken "+duration+" seconds to reach the destination:"); System.out.println("it taken "+duration+" seconds to reach the destination:");
-		 System.out.println("it taken "+duration+" seconds to reach the destination:");
 		
 	}
 }
